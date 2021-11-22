@@ -10,7 +10,7 @@ from datetime import date
 
 app = Flask(__name__)
 
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('rf_model.pkl', 'rb'))
 #model=cp.load(urlopen('https://drive.google.com/file/d/1hR-3s1RbedpW8dLtOQio_ULeEz62QtdZ/view?usp=sharing','rb'))
 
 @app.route('/')
