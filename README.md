@@ -9,8 +9,8 @@
 ![image](https://user-images.githubusercontent.com/83829614/143775431-26aef3f9-fdb2-474d-9f8e-9496758bb456.png)
 
 Did Hyperprameter tuning Random Search CV and got the folloing best parameters:
-{'n_estimators': 1000,
- 'min_samples_split': 2,
+<br> {'n_estimators': 1000, <br>
+ <br>'min_samples_split': 2,<br>
  'min_samples_leaf': 1,
  'max_features': 'sqrt',
  'max_depth': 25}
