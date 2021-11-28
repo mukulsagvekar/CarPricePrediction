@@ -10,10 +10,10 @@
 
 Did Hyperprameter tuning Random Search CV and got the folloing best parameters:
 <br> {'n_estimators': 1000, <br>
- <br>'min_samples_split': 2,<br>
- 'min_samples_leaf': 1,
- 'max_features': 'sqrt',
- 'max_depth': 25}
+ 'min_samples_split': 2,<br>
+ 'min_samples_leaf': 1,<br>
+ 'max_features': 'sqrt',<br>
+ 'max_depth': 25}<br>
  
  **Screenshots:**
  
